@@ -34,7 +34,7 @@ This is a data-driven machine learning project that predicts the outcome of a UF
 - Converts and scales numeric features like reach, accuracy, and strike rate
 - Allows users to select weight class and two fighters
 - Predicts the winner and how they'll likely win
-- Fully interactive inside Jupyter Notebook
+- Fully interactive inside Google colab
 
 ---
 
@@ -70,10 +70,9 @@ UFC-Fight-Predictor/
    cd UFC-Fight-Predictor
    ```
 
-2. Open in Jupyter/Google colab:
-   ```bash
-   jupyter notebook UFC_Fight_Predictor.ipynb
-   ```
+2. Open in Google colab:
+   google colab UFC_Fight_Predictor.ipynb
+   
 
 3. Make sure `fighters_data.csv` is in the same folder
 
